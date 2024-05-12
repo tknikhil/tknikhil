@@ -24,5 +24,5 @@ I'm Nikhil TK Fullstack Developer from India, Currently I am working at Ultemate
     <img src="https://img.shields.io/badge/-Jenkins-A80030?style=flat-square&logo=Jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Intelij-123F6D?style=flat-square&logo=JetBrains&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-STS-222F29?style=flat-square&logo=SpringTools&logoColor=white"/>
   </p>
