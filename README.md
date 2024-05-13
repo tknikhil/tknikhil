@@ -10,7 +10,7 @@ I'm Nikhil TK Fullstack Developer from India, Currently I am working at Ultemate
 <img alt="" width="400" src="" alt=""></img>
 </td>
 <td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
+<img alt="" width="400" src="[https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg](https://github.com/tknikhil/tknikhil/blob/main/metrics.organization.svg)" alt=""></img>
 </td>
   </tr>
 <!--   <tr>
