@@ -51,4 +51,6 @@ I'm Nikhil TK Fullstack Developer from India, Currently I am working at Ultemate
   <p>
     <img src="https://img.shields.io/badge/-Python-23A9F2?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Machine Learning-181717?style=flat-square&logo=Machine Learning&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Data Science-E34F26?style=flat-square&logo=Data Science&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Generative AI-1C78C0?style=flat-square&logo=GenerativeAI&logoColor=white"/>
   </p>
