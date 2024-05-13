@@ -7,7 +7,7 @@ I'm Nikhil TK Fullstack Developer from India, Currently I am working at Ultemate
   </tr>
   <tr>
     <td align="center">
-<img alt="" width="400" src="" alt=""></img>
+<img alt="" width="400" src="https://github.com/tknikhil/tknikhil/blob/main/metrics.classic.svg" alt=""></img>
 </td>
 <td align="center">
 <img alt="" width="400" src="https://github.com/tknikhil/tknikhil/blob/main/metrics.organization.svg" alt=""></img>
