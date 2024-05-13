@@ -2,10 +2,6 @@
 I'm Nikhil TK Fullstack Developer from India, Currently I am working at UltemateTek Sol. Pvt. Ltd. Bengaluru India,  
 <table>
   <tr>
-    <th align="center">For user accounts</th>
-    <th align="center">For organization accounts</th>
-  </tr>
-  <tr>
     <td align="center">
 <img alt="" width="400" src="https://github.com/tknikhil/tknikhil/blob/main/metrics.classic.svg" alt=""></img>
 </td>
