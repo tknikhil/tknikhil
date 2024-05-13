@@ -26,3 +26,11 @@ I'm Nikhil TK Fullstack Developer from India, Currently I am working at Ultemate
     <img src="https://img.shields.io/badge/-Intelij-123F6D?style=flat-square&logo=JetBrains&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Spring Tools Suit-222F29?style=flat-square&logo=spring-tool&logoColor=white"/>
   </p>
+  # I am Learning <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  <p>
+    <img src="https://img.shields.io/badge/-Python-23A9F2?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Machine Learning-181717?style=flat-square&logo=Machine Learning&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+
+  </p>
