@@ -1,5 +1,29 @@
 ### Hi there 👋<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tknikhil.tknikhil">
 I'm Nikhil TK Fullstack Developer from India, Currently I am working at UltemateTek Sol. Pvt. Ltd. Bengaluru India,  
+<table>
+  <tr>
+    <th align="center">For user accounts</th>
+    <th align="center">For organization accounts</th>
+  </tr>
+  <tr>
+    <td align="center">
+<img alt="" width="400" src="" alt=""></img>
+</td>
+<td align="center">
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
+</td>
+  </tr>
+<!--   <tr>
+    <th colspan="2" align="center">
+      <h3><a href="/README.md#-plugins">🧩 Customizable with 47 plugins and 335 options!</a></h3>
+    </th>
+  </tr> -->
+  <tr>
+    <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
+    <th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th>
+  </tr>
+</table>
+
 # My Skill <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
